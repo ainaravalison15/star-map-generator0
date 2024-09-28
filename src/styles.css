@@ -1,0 +1,14 @@
+body {
+  font-family: "Noto Sans Arabic", sans-serif;
+}
+
+#map-container {
+  transform: scale(0.5);
+  transform-origin: top;
+}
+
+#btn_download {
+  position: relative;
+  left: 50%;
+  top: 200%;
+}
